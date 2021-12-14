@@ -1,5 +1,0 @@
-this is the header 
-
-this is a test
-
-this is the footer 
